@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+    <string name="aktualny_gracz">Aktualny gracz :</string>
+    <string name="button_0_0"></string>
+    <string name="button_0_1"></string>
+    <string name="button_0_2"></string>
+    <string name="button_1_0"></string>
+    <string name="button_1_1"></string>
+    <string name="button_1_2"></string>
+    <string name="button_2_0"></string>
+    <string name="button_2_1"></string>
+    <string name="button_2_2"></string>
+    <string name="zagraj_ponownie">Zagraj ponownie</string>
+    <string name="wynik">Wynik :</string>
+</resources>
